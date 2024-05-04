@@ -1,0 +1,1 @@
+The project is basiclly spotify clone created by the help of html and css.
